@@ -9,7 +9,7 @@
 <body>
     <div class="flex-container">
         <div class="flex-item-left">
-            <div class="logo-section">logo with background</div>
+            <div class="logo-section"></div>
         </div>
         <div class="flex-item-right">
             <div class="description-section">description</div>
