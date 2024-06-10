@@ -9,10 +9,15 @@
 <body>
     <div class="flex-container">
         <div class="flex-item-left">
-            <div class="logo-section"></div>
+            <div class="logo-section">
+                <img src="odin-lined.png" height="125">
+                <p>ODIN</p>
+            </div>
         </div>
         <div class="flex-item-right">
-            <div class="description-section">description</div>
+            <div class="description-section">
+                <p>This is not a real online service! You know you need something like this in your life to realize your deepest dreams.<br>Sign up now to get started.<br><br>You know you want to.</p>
+            </div>
             <div class="form-section">from</div>
             <div class="button-section">action</div>
         </div>
